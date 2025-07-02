@@ -26,9 +26,7 @@ Um curioso apaixonado por resolver problemas complexos por meio da tecnologia. G
 
 ## My Skills
 
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="100px" width="250px" align="right" alt="Computador iuriCode">
 
 
 
@@ -45,6 +43,8 @@ Um curioso apaixonado por resolver problemas complexos por meio da tecnologia. G
 
 
 ## Contacts:
+
+<img src="https://portais.univasf.edu.br/srca/secretaria-de-registro-e-controle-academico/contato/contatos.png/@@images/image.png" min-width="250px" max-width="100px" width="250px" align="right" alt="Computador iuriCode">
 
 <div> 
 
