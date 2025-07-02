@@ -1,5 +1,3 @@
-# PROJETO-PERFIL-GITHUB
-primeiros passos para criar um perfil
 
 <img align="center" style="margin-bottom:30px; object-fit: contain" width=30% src="https://avatars.githubusercontent.com/u/218273532?v=4" >
 
@@ -17,3 +15,21 @@ Um curioso apaixonado por resolver problemas complexos por meio da tecnologia. G
  &nbsp;
  &nbsp;
 
+## My Skills
+
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+
+
+
+#### Studying in this moment:
+
+
+
+#### Databases:
+
+
+#### Workstation Tools:
