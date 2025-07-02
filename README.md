@@ -1,5 +1,14 @@
+## Olá👋 
 
-<img align="center" style="margin-bottom:30px; object-fit: contain" width=30% src="https://avatars.githubusercontent.com/u/218273532?v=4" >
+<table align="center" width="10%">
+  <tr>
+    <td align="center" style="border: 2px solid #f39c12; background-color: #fcf8e3; padding: 20px; border-radius: 10px;">
+      <h2>⚠️ Perfil em construção</h2>
+      <p>Link do projeto: <a href="https://github.com/ccoelho14/PROJETO-PERFIL-GITHUB" target="_blank">https://github.com/ccoelho14/PROJETO-PERFIL-GITHUB</a></p>
+    </td>
+  </tr>
+</table>
+ <img align="center" style="margin-bottom:25px; object-fit: contain" width=25% src="https://avatars.githubusercontent.com/u/218273532?v=4" >
 
 &nbsp;&nbsp;&nbsp;
 
