@@ -55,7 +55,7 @@ Um curioso apaixonado por resolver problemas complexos por meio da tecnologia. G
 ## Contacts:
 <img src="https://portais.univasf.edu.br/srca/secretaria-de-registro-e-controle-academico/contato/contatos.png/@@images/image.png" min-width="350px" max-width="100px" width="350px" align="right" alt="Computador iuriCode">
 <div> 
-<a href = "mailto:contato.celio9375@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:celio9375@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <a href="https://www.linkedin.com/in/celiodecarvalhocoelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
